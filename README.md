@@ -39,7 +39,7 @@
 ## 复现指南 / Reproduction Guide
 1. 克隆仓库：  
 ```bash
-git clone https://github.com/你的用户名/项目名.git
+git clone https://github.com/Mochellna/英国电商销售数据清洗.git
 ```
 2. 安装依赖:
 ```bash
