@@ -41,3 +41,13 @@
 1. 克隆仓库：  
 ```bash
 git clone https://github.com/你的用户名/项目名.git
+2. 安装依赖:
+```bash
+pip install -r requirements.txt
+3. 在 Jupyter Notebook 中打开 `analysis.ipynb`。
+4. 按顺序运行单元格，即可复现数据清洗和分析流程。
+
+## 项目亮点
+- **完整练习数据质量评估和清洗流程** 
+- **处理真实电商数据: 设计缺失值、重复值、异常值处理**
+- **数据清洗过程规范化， 便于后续分析和可视化**
