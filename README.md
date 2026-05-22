@@ -41,9 +41,11 @@
 1. 克隆仓库：  
 ```bash
 git clone https://github.com/你的用户名/项目名.git
+```
 2. 安装依赖:
 ```bash
 pip install -r requirements.txt
+```
 3. 在 Jupyter Notebook 中打开 `analysis.ipynb`。
 4. 按顺序运行单元格，即可复现数据清洗和分析流程。
 
