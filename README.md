@@ -45,7 +45,7 @@ git clone https://github.com/Mochellna/Python-data-cleaning-practice.git
 ```bash
 pip install -r requirements.txt
 ```
-3. 在 Jupyter Notebook 中打开 `analysis.ipynb`。
+3. 在 Jupyter Notebook 中打开 `英国电商销售数据清洗.ipynb`。
 4. 按顺序运行单元格，即可复现数据清洗和分析流程。
 
 ## 项目亮点
